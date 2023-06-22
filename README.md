@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm DamanPreet Singh</h1>
 <h3 align="center">A young 😎 passionate developer/programmer from India</h3>
 
-- 🌱 I’m currently learning **Python, 🤔ing what to learn next...**
+- 🌱 I’m currently learning **Cross Platform development with flutter/dart**
 
-- 📫 How to reach me **damanpsingh109@gmail.com**
-
-- ⚡ Fun fact **I think I am funny LOL**
+- 📫 How to reach me **damanpsingh809@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
