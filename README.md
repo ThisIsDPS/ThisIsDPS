@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DamanPreet Singh</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
+<h3 align="center">A passionate Flutter/Dart & Java/Springboot developer from India</h3>
 
-- 🌱 I’m currently learning **Flutter(Dart)**
+- 🌱 I’m currently learning **Spring**
 
-- 📫 How to reach me **damanpsingh809@gmail.com**
+- 📫 How to reach me **damanpsingh109@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
